@@ -34,5 +34,5 @@ cd ..
 while true
 do
    java -Xms1G -Xmx8G -jar FlameCord.jar
-echo "Rebooting! Press CTRL-C to stop process"
+   echo "Rebooting! Press CTRL-C to stop process"
 done
